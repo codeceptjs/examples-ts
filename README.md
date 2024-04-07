@@ -11,7 +11,7 @@ This is a playground for your first steps in testing with Typescript, so instead
 git clone git@github.com:codecept-js/examples-ts.git codeceptjs-examples-ts && cd codeceptjs-examples-ts && npm i
 ```
 
-This will install CodeceptJS with Puppeteer, WebdriverIO & TestCafe packages. 
+This will also install CodeceptJS with Puppeteer, WebdriverIO & TestCafe packages. 
 
 # Running Tests
 
@@ -68,7 +68,7 @@ npx codeceptjs run-workers 3
 
 ## Credits
 
-Created as part of codepress by Stefan Huber.
+Inspired by the examples in JS.
 Maintained by CodeceptJS Team.
 
 ## LICENSE
